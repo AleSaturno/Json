@@ -27,6 +27,9 @@ function traerdatos(){
                 <tr>
                     <th>${item.titulo}</th>
                     <th>${item.artista}</th>
+                    <th>${item.Año}</th>
+                    <th>${item.Localidad}</th>
+                    <th>${item.DNI}</th>
                 </tr>
                 
 

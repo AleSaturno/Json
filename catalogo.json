@@ -1,17 +1,30 @@
 [
     {
         "titulo":"Empire Burlesque",
-        "artista":"Bob Dylan"
+        "artista":"Bob Dylan",
+        "Año":"1986",
+        "Localidad":"Santa Fe",
+        "DNI":56489645
+        
+        
    
     },
 
     {
         "titulo":"Hide your heart",
-        "artista":"Bonnie Tyler"
+        "artista":"Bonnie Tyler",
+        "Año":"1986",
+        "Localidad":"Santa Fe",
+        "DNI":5648966
+        
     },
 
     {
         "titulo":"Greatest Hits",
-        "artista":"Dolly Parton"
+        "artista":"Dolly Parton",
+        "Año":"1988",
+        "Localidad":"Santa Cruz",
+        "DNI":56489666
+        
     }
 ]
