@@ -30,6 +30,7 @@ function traerdatos(){
                     <th>${item.Año}</th>
                     <th>${item.Localidad}</th>
                     <th>${item.DNI}</th>
+                    <th>${item.Pelotudo}</th>
                 </tr>
                 
 
